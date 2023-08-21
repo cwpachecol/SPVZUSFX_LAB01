@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PPVZUSFX_LAB01", "PPVZUSFX_LAB01\PPVZUSFX_LAB01.vcxproj", "{16AFD218-BA1F-4F08-A4E9-796697B76820}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Debug|x64.ActiveCfg = Debug|x64
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Debug|x64.Build.0 = Debug|x64
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Debug|x86.ActiveCfg = Debug|Win32
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Debug|x86.Build.0 = Debug|Win32
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Release|x64.ActiveCfg = Release|x64
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Release|x64.Build.0 = Release|x64
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Release|x86.ActiveCfg = Release|Win32
+		{16AFD218-BA1F-4F08-A4E9-796697B76820}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5993D13-1BA2-4FD8-8280-8569C76E1E79}
+	EndGlobalSection
+EndGlobal
