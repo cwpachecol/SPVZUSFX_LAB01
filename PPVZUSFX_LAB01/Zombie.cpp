@@ -55,3 +55,7 @@ void Zombie::atacar()
 void Zombie::morir() {
 
 }
+
+void Zombie::morder()
+{
+}

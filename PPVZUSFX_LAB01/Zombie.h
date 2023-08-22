@@ -8,11 +8,16 @@ class Zombie
 private:
 	int energia = 90;
 	int nivelFuria;
-	int velocidad;
-	float posicionX;
-	float posicionY;
+	
 	string tipoZombie;
 	string nombre;
+
+protected:
+	float posicionX;
+	float posicionY;
+	int direccionX;
+	int direccionY;
+	int velocidad;
 
 public:
 	//Contructores
@@ -44,13 +49,13 @@ public:
 
 
 
-	//Metodos comunes
+	//Metodos propios
 	void moverse();
 	void moverse(float, float);
 	void moverse(float, float, int);
 
 	void atacar();
 	void morir();
-
+	void morder();
 };
 
